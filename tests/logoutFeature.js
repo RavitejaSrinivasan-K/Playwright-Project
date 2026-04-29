@@ -1,2 +1,2 @@
-var a = 100
+var a = "This is Logout"
 console.log(a)

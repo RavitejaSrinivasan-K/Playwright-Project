@@ -8,6 +8,5 @@ node_modules/
 /playwright/.auth/
 allure-report
 allure-results
-testData
 JsonReport.json
 JunitReport.xml

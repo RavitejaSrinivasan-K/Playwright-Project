@@ -1,4 +1,2 @@
-var a = "This is Logout"
+var a = "This is Github Conflict"
 console.log(a)
-const b = 100
-console.log(b)
